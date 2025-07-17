@@ -1,1 +1,1 @@
-# Algerian-Forest-Fire-Prediction
+

@@ -8,7 +8,7 @@
 - [Technologies Used](#technologies-used)
 - [Model Performance](#model-performance)
 - [How to Use](#how-to-use)
-- 
+- [Output](#output)
 - [Examples](#examples)
 - [Future Enhancements](#future-enhancements)
 - [Acknowledgements](#acknowledgements)

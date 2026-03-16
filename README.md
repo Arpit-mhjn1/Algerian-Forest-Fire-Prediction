@@ -66,4 +66,4 @@ The dataset consists of 244 instances, which include data from two regions in Al
    - Represents the moisture content in the duff layer.  
 
 8. ## Output
-   [![AFFP](https://github.com/Arpit-mhjn1/Algerian-Forest-Fire-Prediction/blob/main/AFFP.jpg?raw=true)(https://github.com/Arpit-mhjn1) 
+   ![AFFP](https://github.com/Arpit-mhjn1/Algerian-Forest-Fire-Prediction/blob/main/AFFP.jpg?raw=true)(https://github.com/Arpit-mhjn1) 

@@ -8,6 +8,7 @@
 - [Technologies Used](#technologies-used)
 - [Model Performance](#model-performance)
 - [How to Use](#how-to-use)
+- 
 - [Examples](#examples)
 - [Future Enhancements](#future-enhancements)
 - [Acknowledgements](#acknowledgements)
@@ -64,3 +65,5 @@ The dataset consists of 244 instances, which include data from two regions in Al
 7. **Duff Moisture Code (DMC)**:  
    - Represents the moisture content in the duff layer.  
 
+8. ## Output
+   [![AFFP](https://github.com/Arpit-mhjn1/Arpit-mhjn1/blob/main/AFFP.jpg?raw=true)](https://github.com/Arpit-mhjn1) 
